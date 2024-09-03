@@ -11,9 +11,7 @@
 - [Technical Details](#technical-details)
 - [Code Structure](#code-structure)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
@@ -29,9 +27,6 @@ This is an interactive web-based game where players navigate multiple balls thro
 - Responsive design
 - Customizable appearance
 
-## Demo
-
-[Insert a GIF or link to a live demo of the game here]
 
 ## Installation
 
